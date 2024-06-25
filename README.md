@@ -4,13 +4,13 @@ You can add levels in the database quite easily, simply give a levelimage and se
 You can then add some waves and you have a level.
 
 LevelMenu:
-![LevelMenu Image]([http://url/to/img.png](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/levelmenu.png))
+![LevelMenu Image](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/levelmenu.png?raw=true)
 
 PokemonBox:
-![PokemonBox Image]([http://url/to/img.png](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/box.png))
+![PokemonBox Image](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/box.png?raw=true)
 
 LevelStart:
-![LevelStart Image]([http://url/to/img.png](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/level.png))
+![LevelStart Image](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/level.png?raw=true)
 
 Combat:
-![Combat Image]([http://url/to/img.png](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/combat.png))
+![Combat Image](https://github.com/TimonVenninckx/PokemonTowerDefenseSFML/blob/main/showcase/combat.png?raw=true)
